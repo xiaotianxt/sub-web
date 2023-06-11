@@ -396,7 +396,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://subconverter.xiaotianxt.com?" }],
+        backendOptions: [{ value: "https://subconverter.xiaotianxt.com/sub?" }],
         remoteConfig: [
           {
             label: "ACL4SSR",
