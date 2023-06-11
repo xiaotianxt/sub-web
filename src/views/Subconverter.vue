@@ -402,6 +402,10 @@ export default {
             label: "ACL4SSR",
             options: [
               {
+                label: "ACL4SSR_Online + 小田个人配置",
+                value: "https://gist.githubusercontent.com/xiaotianxt/a7c92cd12874b93d0d08b80bfda7ecc9/raw/88506762bb26307e6243ea8ad3764faaeb97009f/ACL4SSR_Online_xiaotianxt.ini"
+              },
+              {
                 label: "ACL4SSR_Online 默认版 分组比较全 (与Github同步)",
                 value:
                   "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini",
