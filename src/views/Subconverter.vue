@@ -403,7 +403,7 @@ export default {
             options: [
               {
                 label: "ACL4SSR_Online + 小田个人配置",
-                value: "https://gist.githubusercontent.com/xiaotianxt/a7c92cd12874b93d0d08b80bfda7ecc9/raw/b69d82e2163cfe1b94f86443a0de888c0ade00c2/ACL4SSR_Online_xiaotianxt.ini"
+                value: "https://gist.github.com/xiaotianxt/a7c92cd12874b93d0d08b80bfda7ecc9/raw"
               },
               {
                 label: "ACL4SSR_Online 默认版 分组比较全 (与Github同步)",
